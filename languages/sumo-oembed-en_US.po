@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-30 20:10+0200\n"
+"PO-Revision-Date: 2017-04-30 20:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;_e;_n;__\n"
+"X-Poedit-SearchPath-0: oembed-cache-clear.php\n"
+
+#: oembed-cache-clear.php:99 oembed-cache-clear.php:114
+msgid "Clear oEmbed-Cache"
+msgstr ""
+
+#: oembed-cache-clear.php:183
+#, php-format
+msgid "oEmbed-Cache of %s post cleared"
+msgstr ""
+
+#: oembed-cache-clear.php:186
+#, php-format
+msgid "oEmbed-Cache of %s page cleared"
+msgstr ""
